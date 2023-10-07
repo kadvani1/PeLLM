@@ -13,10 +13,3 @@ This README provides an overview of the PELLM project and can be added to the pr
 
 User Guide
 To run, first add your OpenAI API key to your environment and install the requirements. Then run:
-
-
-Features of LARA
-Real-time Geolocation: Track the user's current location and provide directions to get back home.
-Emergency Contact: Automatically notify emergency contacts if the user seems lost for an extended period.
-Safety Zones: Define areas where the user frequently visits and get alerted if they wander off too far.
-Memory Aids: Provide photos or familiar landmarks to help the user recognize their surroundings.
