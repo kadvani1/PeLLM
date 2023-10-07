@@ -11,5 +11,5 @@ Features:
 
 This README provides an overview of the PELLM project and can be added to the project's GitHub repository to provide information to visitors and potential collaborators.
 
-User Guide
+# User Guide
 To run, first add your OpenAI API key to your environment and install the requirements. Then run:
