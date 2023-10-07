@@ -1,7 +1,7 @@
 # PeLLM
 Private equity AI Agent
 
-# What it does
+# What is this repo?
 PeLLM is an AI agent for private equity.
 
 Features:
