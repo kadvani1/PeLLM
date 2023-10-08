@@ -8,7 +8,8 @@ Features:
 - Generative research: Generate and query investment memos
 - Generative compliance: Generate and query regulatory filings
 
-![PeLLM Logo] (https://i.ibb.co/ryRCKvc/Screenshot-2023-10-07-at-16-52-49.png)
+![PeLLM Logo](https://i.ibb.co/ryRCKvc/Screenshot-2023-10-07-at-16-52-49.png)
+![PeLLM Logo](http://im5.ezgif.com/tmp/ezgif-5-3eef1a83d4.gif)
 
 This README provides an overview of the PELLM project and can be added to the project's GitHub repository to provide information to visitors and potential collaborators.
 
