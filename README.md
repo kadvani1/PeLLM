@@ -14,3 +14,12 @@ This README provides an overview of the PELLM project and can be added to the pr
 
 # User Guide
 To run, first add your OpenAI API key and Pinecone API key to your environment and install the requirements. To run the streamlit demo run: streamlit run st_pellm_demo.py
+
+```python
+llm = OpenAI(model="gpt-3.5-turbo")
+
+openai.api_key = os.environ.get("OPENAI_API_KEY")
+pinecone_api_key =  os.environ.get("PINECONE_API_KEY")
+# api_key = ""
+environment = "gcp-starter"
+index_name = "pellm"
