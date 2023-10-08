@@ -14,11 +14,8 @@ This README provides an overview of the PELLM project and can be added to the pr
 
 # Technology used
 
-Vector database
 ![PeLLM Logo](https://github.com/pinecone-io/examples/raw/master/learn/images/pinecone_logo_w_background.png)
-Query engine
 ![PeLLM Logo](https://uploads-ssl.webflow.com/62a8755be8bcc86e6307def8/645b98e5fd715675483a4100_Untitled-2.png)
-LLM evaluation
 ![PeLLM Logo](https://ml.globenewswire.com/Resource/Download/3034f6cd-48c3-4b5e-bd7f-242dbaecaab4?size=2)
 
 # User Guide
