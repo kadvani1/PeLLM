@@ -1,4 +1,4 @@
-# PeLLM 🏦 - Private Equity AI Agent
+# PeLLM 🏦 - Private Equity AI Agent - Create private equity funds for free
 
 # What is this repo?
 PeLLM is an AI agent for private equity.
